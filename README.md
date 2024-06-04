@@ -13,6 +13,7 @@ Reference: https://github.com/carinosc/Yelp-Restaurant-Recommender-System/tree/m
 This project aims to help the people who are new to the area to find the nearby restaurants based on their location coordinates and the food preference.
 
 Three different algorithms were used to find the optimal algorithm for generating the recommendations further based on the RMSE.
+![alt text](/alg_rmse.png)
 
 The following results are obtained considering the user’s food preference as ’pizza’ and his location coordinates are, 43.634003 and-116.402057 respectively. 
 
