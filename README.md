@@ -15,6 +15,7 @@ This project aims to help the people who are new to the area to find the nearby 
 Three different algorithms were used to find the optimal algorithm for generating the recommendations further based on the RMSE.
 ![alt text](/alg_rmse.png)
 
-The following results are obtained considering the user’s food preference as ’pizza’ and his location coordinates are, 43.634003 and-116.402057 respectively. 
+The following results are obtained considering the user’s food preference as ’pizza’ and his location coordinates are, 43.634003 and-116.402057 respectively.
+![alt text](/recs_img.png)
 
 
